@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background: url(../../assets/img/dawn.png) no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+  background-position: center;
+
+}
+.caja{
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  display: block;
+  width: 100%;
+
+}
+.gato1{
+  width: 30%;
+  display: inline-block;
+}
